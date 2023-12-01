@@ -2,8 +2,8 @@
 
 Welcome to FitPage Work, a robust web application designed to provide users with a comprehensive list view of stock market scans. Built with ReactJs, Vite, Typescript, MongoDB, ExpressJs, and NodeJs.
 
-![FitPage Work](Main.png)
-![FitPage Work](Main2.jpeg)
+![FitPage Work](main.png)
+![FitPage Work](main2.jpeg)
 
 ## Live Link
 https://fitpagework.vercel.app
