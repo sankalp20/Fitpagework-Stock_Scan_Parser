@@ -36,9 +36,9 @@ To run the project locally, follow these steps:
     npm run dev
     ```
 
-    Make sure you are in the correct directory,
+    Make sure you are in the correct directory, i.e., the Client Folder
     ```
-    Client Folder
+    cd Client
     ```
 
 
